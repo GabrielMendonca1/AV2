@@ -1,7 +1,5 @@
 # AV2 
 
-Descrição breve do projeto.
-
 ## Tecnologias Utilizadas
 
 - React Native
